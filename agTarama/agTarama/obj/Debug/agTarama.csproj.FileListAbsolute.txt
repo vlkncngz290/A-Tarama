@@ -1,0 +1,19 @@
+c:\users\xx\documents\visual studio 2015\Projects\agTarama\agTarama\bin\Debug\agTarama.exe.config
+c:\users\xx\documents\visual studio 2015\Projects\agTarama\agTarama\obj\Debug\agTarama.csprojResolveAssemblyReference.cache
+c:\users\xx\documents\visual studio 2015\Projects\agTarama\agTarama\obj\Debug\agTarama.Form1.resources
+c:\users\xx\documents\visual studio 2015\Projects\agTarama\agTarama\obj\Debug\agTarama.Properties.Resources.resources
+c:\users\xx\documents\visual studio 2015\Projects\agTarama\agTarama\obj\Debug\agTarama.csproj.GenerateResource.Cache
+c:\users\xx\documents\visual studio 2015\Projects\agTarama\agTarama\bin\Debug\agTarama.exe
+c:\users\xx\documents\visual studio 2015\Projects\agTarama\agTarama\bin\Debug\agTarama.pdb
+c:\users\xx\documents\visual studio 2015\Projects\agTarama\agTarama\obj\Debug\agTarama.exe
+c:\users\xx\documents\visual studio 2015\Projects\agTarama\agTarama\obj\Debug\agTarama.pdb
+D:\248817\Projects\agTarama\agTarama\bin\Debug\agTarama.exe.config
+D:\248817\Projects\agTarama\agTarama\bin\Debug\agTarama.exe
+D:\248817\Projects\agTarama\agTarama\bin\Debug\agTarama.pdb
+D:\248817\Projects\agTarama\agTarama\obj\Debug\agTarama.csprojAssemblyReference.cache
+D:\248817\Projects\agTarama\agTarama\obj\Debug\agTarama.Form1.resources
+D:\248817\Projects\agTarama\agTarama\obj\Debug\agTarama.Properties.Resources.resources
+D:\248817\Projects\agTarama\agTarama\obj\Debug\agTarama.csproj.GenerateResource.cache
+D:\248817\Projects\agTarama\agTarama\obj\Debug\agTarama.csproj.CoreCompileInputs.cache
+D:\248817\Projects\agTarama\agTarama\obj\Debug\agTarama.exe
+D:\248817\Projects\agTarama\agTarama\obj\Debug\agTarama.pdb
